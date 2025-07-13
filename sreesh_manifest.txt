@@ -1,0 +1,31 @@
+
+Project: AI QR Code Generator with Python
+Author: Sreesh
+Date: July 2025
+
+Description:
+This project is a simple Python application that generates a QR code when a URL is provided by the user.
+
+Files Included:
+1. qr_generator.py            Python source code for QR code generation
+2. my_qrcode.png              Example generated QR code image
+3. manifest.txt               This file
+4. screenshot.png             Screenshot of the QR code output
+
+Dependencies:
+- Python 3.x
+- qrcode (installed via pip)
+- pillow (automatically installed with qrcode[pil])
+
+Setup Instructions:
+1. Install Python: https://www.python.org/downloads/
+2. Open terminal or command prompt.
+3. Install the required libraries by running:
+   pip install qrcode[pil]
+4. Run the program using:
+   python qr_generator.py
+5. Input any valid URL when prompted.https://bioxsystems.com
+6. The generated QR code will be saved as "my_qrcode.png" and displayed.
+
+Repository:
+GitHub Link:
